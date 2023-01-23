@@ -1,0 +1,85 @@
+{
+  "footerlogo": "assets/img/logo-footer.png",
+  "footertext": "Our support team will get assistance from AI-powered, making it quicker than ever to handle support requests.",
+  "footerbg": "assets/img/bg/footer.png",
+  "socialicon": [
+      {
+        "icon": "fa fa-facebook",
+        "url": "https://www.facebook.com/codingeek.net/"
+      },
+      {
+        "icon": "fa fa-twitter",
+        "url": "https://twitter.com/codingeeknet"
+      },
+      {
+        "icon": "fa fa-linkedin",
+        "url": "https://www.linkedin.com/company/codingeek/about/"
+      }
+    ],
+  "copyrighttext": "  © Copyright Made with <i class=\"fa fa-heart\"></i>  by <a href='https://muhammedmubakeroglu.live/' target='_blank'><span>Muhammed Mubakeroğlu.</span></a>",
+  "popularserces": {
+    "title": "University Campuses",
+    "links": [
+      {
+        "title": "Avcilar Campus",
+        "url": "/property-details"
+      },
+      {
+        "title": "Üsküdar Campus",
+        "url": "/property-details"
+      },
+      {
+        "title": "Meslek Campus",
+        "url": "/property-details"
+      },
+      {
+        "title": "Fatih Campus",
+        "url": "/property-details"
+      }
+    ]
+  },
+  "Homepress": {
+    "title": "Best Colleges",
+    "links": [
+      {
+        "title": "Los Angeles Offices",
+         "url": "/property-details"
+      },
+      {
+        "title": "Las Vegas Apartment",
+         "url": "/property-details"
+      },
+      {
+        "title": "Sacramento Townhome",
+         "url": "/property-details"
+      },
+      {
+        "title": "San Francisco Offices",
+         "url": "/property-details"
+      }
+    ]
+  },
+  "quicklink": {
+    "title": "Quick Links",
+    "links": [
+      {
+        "title": "Home",
+        "url": "/"
+      },
+      {
+        "title": "Colleges",
+        "url": "/colleges"
+      },
+      {
+        "title": "About Us",
+        "url": "/About"
+      },
+      {
+        "title": "Contact Us",
+        "url": "/contact"
+      }
+    ]
+  }
+
+
+}

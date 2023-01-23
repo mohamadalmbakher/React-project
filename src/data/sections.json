@@ -1,0 +1,586 @@
+{ 
+  "banner":{
+        "title":"Study in Turkey",
+        "subtitle":"The best university in Turkey",
+        "btntxt":"Book Now",
+        "btnurl":"https://wa.me/905453328551"
+  },
+  "campuses":{
+    "items":[
+        {
+          "title": "Avcilar Campus",
+          "icon": "/assets/img/Campuses/Avcilar.png",
+          "url": "/colleges",
+          "btntxt": "Explore Now"
+        },
+        {
+          "title": "Üsküdar Campus",
+          "icon": "/assets/img/Campuses/Üsküdar.png",
+          "url": "/colleges",
+          "btntxt": "Explore Now"
+        },
+        {
+          "title": "bayrampasa Campus",
+          "icon": "/assets/img/Campuses/bayrampasa.jpg",
+          "url": "/colleges",
+          "btntxt": "Explore Now"
+        },
+        {
+          "title": "Fatih Campus",
+          "icon": "/assets/img/Campuses/Fatih.png",
+          "url": "/colleges",
+          "btntxt": "Explore Now"
+        }
+      ]
+  }, 
+  
+   "college":{
+      "items":[
+        {
+          "title": "College of medicine ",
+      "image": "/assets/img/colleges/medicine.jpeg",
+          "icon":"assets/img/icons/l3.png",
+          "url": "/college-details",
+          "olderprice": "$790/mo",
+          "newerprice": "$350/mo",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat1 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        } ,
+        
+        {
+          "title": "College of Veterinary",
+      "image": "/assets/img/colleges/Veterinary.jpg",
+          "icon":"assets/img/icons/l2.png",
+          "url": "/college-details",
+          "olderprice": "$790/mo",
+          "newerprice": "$350/mo",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "college of Literature",
+      "image": "/assets/img/colleges/Literature.jpg",
+          "icon":"assets/img/icons/l3.png",
+          "url": "/college-details",
+          "olderprice": "$790/mo",
+          "newerprice": "$350/mo",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "College of Science",
+          "image": "/assets/img/colleges/Science.jpg",
+          "icon":"assets/img/icons/l4.png",
+          "url": "/college-details",
+          "olderprice": "$790/mo",
+          "newerprice": "$350/mo",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "College of Architecture",
+      "image": "/assets/img/colleges/Architecture.jpg",
+          "icon":"assets/img/icons/l5.png",
+          "url": "/college-details",
+          "olderprice": "$790/mo",
+          "newerprice": "$350/mo",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+           "cat":"cat1 cat2 cat3",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "College of Engineering",
+          "image": "/assets/img/colleges/engineering.jpg",
+          "icon":"assets/img/icons/l6.png",
+          "url": "/college-details",
+          "olderprice": "$790/mo",
+          "newerprice": "$350/mo",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat1 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        }
+      ]
+  },
+  "featuresCollege":{
+    "items":[
+      {
+        "title": "College of medicine ",
+    "image": "/assets/img/colleges/medicine.jpeg",
+        "icon":"assets/img/icons/l3.png",
+        "url": "/college-details",
+        "olderprice": "$790/mo",
+        "newerprice": "$350/mo",
+        "area":"1898 sq.",
+        "authorname":"Vilma Jarvi By Redbrox",
+        "cat":"cat1 cat3 cat4",
+        "features":[
+          {
+            "icon":"fa fa-bed",
+            "title":"05 Bed"
+          },
+          {
+            "icon":"fa fa-bath",
+            "title":"02 Bath"
+          }
+        ]
+      } ,
+      
+      {
+        "title": "College of Veterinary",
+    "image": "/assets/img/colleges/Veterinary.jpg",
+        "icon":"assets/img/icons/l2.png",
+        "url": "/college-details",
+        "olderprice": "$790/mo",
+        "newerprice": "$350/mo",
+        "area":"1898 sq.",
+        "authorname":"Vilma Jarvi By Redbrox",
+        "cat":"cat2 cat3 cat4",
+        "features":[
+          {
+            "icon":"fa fa-bed",
+            "title":"05 Bed"
+          },
+          {
+            "icon":"fa fa-bath",
+            "title":"02 Bath"
+          }
+        ]
+      },
+      {
+        "title": "college of Literature",
+    "image": "/assets/img/colleges/Literature.jpg",
+        "icon":"assets/img/icons/l3.png",
+        "url": "/college-details",
+        "olderprice": "$790/mo",
+        "newerprice": "$350/mo",
+        "area":"1898 sq.",
+        "authorname":"Vilma Jarvi By Redbrox",
+        "cat":"cat2 cat3 cat4",
+        "features":[
+          {
+            "icon":"fa fa-bed",
+            "title":"05 Bed"
+          },
+          {
+            "icon":"fa fa-bath",
+            "title":"02 Bath"
+          }
+        ]
+      },
+      {
+        "title": "College of Science",
+        "image": "/assets/img/colleges/Science.jpg",
+        "icon":"assets/img/icons/l4.png",
+        "url": "/college-details",
+        "olderprice": "$790/mo",
+        "newerprice": "$350/mo",
+        "area":"1898 sq.",
+        "authorname":"Vilma Jarvi By Redbrox",
+        "cat":"cat2 cat3 cat4",
+        "features":[
+          {
+            "icon":"fa fa-bed",
+            "title":"05 Bed"
+          },
+          {
+            "icon":"fa fa-bath",
+            "title":"02 Bath"
+          }
+        ]
+      },
+      {
+        "title": "College of Architecture",
+    "image": "/assets/img/colleges/Architecture.jpg",
+        "icon":"assets/img/icons/l5.png",
+        "url": "/college-details",
+        "olderprice": "$790/mo",
+        "newerprice": "$350/mo",
+        "area":"1898 sq.",
+        "authorname":"Vilma Jarvi By Redbrox",
+         "cat":"cat1 cat2 cat3",
+        "features":[
+          {
+            "icon":"fa fa-bed",
+            "title":"05 Bed"
+          },
+          {
+            "icon":"fa fa-bath",
+            "title":"02 Bath"
+          }
+        ]
+      },
+      {
+        "title": "College of Engineering",
+        "image": "/assets/img/colleges/engineering.jpg",
+        "icon":"assets/img/icons/l6.png",
+        "url": "/college-details",
+        "olderprice": "$790/mo",
+        "newerprice": "$350/mo",
+        "area":"1898 sq.",
+        "authorname":"Vilma Jarvi By Redbrox",
+        "cat":"cat1 cat3 cat4",
+        "features":[
+          {
+            "icon":"fa fa-bed",
+            "title":"05 Bed"
+          },
+          {
+            "icon":"fa fa-bath",
+            "title":"02 Bath"
+          }
+        ]
+      }
+    ]
+},
+   "whychooseus":{
+     "items":[
+        {
+          "icon": "assets/img/icons/11.png",
+          "title":"Sell, Rent Property Free",
+          "url":"#",
+          "content":"Our experts answer all queries with their unmatched knowledge at every step of home buying.",
+          "class":""
+        },
+        {
+          "icon": "assets/img/icons/12.png",
+          "title":"In-depth Info on Investment Hotspots",
+          "url":"#",
+          "content":"Our experts answer all queries with their unmatched knowledge at every step of home buying.",
+          "class":"offset-xl-1"
+        }
+        
+      ]
+  },
+  "mission":{
+      "items":[
+          {
+            "number":"01",
+            "title":"Our Mission",
+            "url":"#",
+            "content":"To be an original and civilization-oriented university that adds universal values to the works of science, technology, and art it generates."
+          },
+          {
+            "number":"02",
+            "title":"Our Vision",
+            "url":"#",
+            "content":"To be an innovative and entrepreneurial global university which presents our civilization to modern world, contributes to global peace, adopts humanitarian values, and distinguishes itself with its scientific quality.",
+            "class":"offset-xl-1"
+          } 
+      ]
+  },
+    "aboutus":{
+      "subtitle":"About Us",
+      "title":"One of the best universities",
+      "content":"Founded on the five pillars of ‘Innovative,’ ‘Entrepreneurial, ‘Society- and Civilization-Oriented’, ‘International’, and ‘Research-Oriented’, the University consists of 10 faculties, 2 schools and 1 institute, as well as 14 research centers, 5 offices, and 8 coordination offices.",
+       "image":"/assets/img/logo-footer.png"
+  },
+   "student":{
+      "title1":"What Our Students ",
+      "title2":"Are Saying ",
+      "items":[
+          {
+            "name":"Varun Vachhar",
+            "college":"college of medicine",
+            "image":"assets/img/students/1.png",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fringilla dui nibh, idhendrerit tellus rhoncus sit amet. Suspendisse semper, inrhoncus nulla consectetur,sem erat accumsan lacus, et nulla diam eu turpis."
+          },
+          {
+            "name":"Tayla Elias",
+            "college":"college of Literature",
+            "image":"assets/img/students/3.jpg",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fringilla dui nibh, idhendrerit tellus rhoncus sit amet. Suspendisse semper, inrhoncus nulla consectetur,sem erat accumsan lacus, et nulla diam eu turpis."
+          },
+          {
+            "name":"Luca Inwood",
+            "college":"College of Science",
+            "image":"assets/img/students/4.jpg",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fringilla dui nibh, idhendrerit tellus rhoncus sit amet. Suspendisse semper, inrhoncus nulla consectetur,sem erat accumsan lacus, et nulla diam eu turpis."
+          },
+           {
+            "name":"George Kavel",
+            "college":"College of Engineering",
+            "image":"assets/img/students/1.png",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fringilla dui nibh, idhendrerit tellus rhoncus sit amet. Suspendisse semper, inrhoncus nulla consectetur,sem erat accumsan lacus, et nulla diam eu turpis."
+          }
+            
+      ]
+  },
+  "searchgrid":{
+      "items":[
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/4.png",
+          "icon":"assets/img/icons/l3.png",
+          "url": "/property-details",
+          "olderprice": "$790/mo",
+          "newerprice": "$350/mo",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat1 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Vegas Landville Apartment",
+          "image": "assets/img/feature/5.png",
+          "icon":"assets/img/icons/l4.png",
+          "url": "/property-details",
+          "olderprice": "$790/mo",
+          "newerprice": "$350/mo",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "United Landville Apartment",
+          "image": "assets/img/feature/6.png",
+          "icon":"assets/img/icons/l5.png",
+          "url": "/property-details",
+          "olderprice": "$790/mo",
+          "newerprice": "$350/mo",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat1 cat2",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/7.png",
+          "icon":"assets/img/icons/l2.png",
+          "url": "/property-details",
+          "olderprice": "$790/mo",
+          "newerprice": "$350/mo",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/8.png",
+          "icon":"assets/img/icons/l3.png",
+          "url": "/property-details",
+          "olderprice": "$790/mo",
+          "newerprice": "$350/mo",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/9.png",
+          "icon":"assets/img/icons/l4.png",
+          "url": "/property-details",
+          "olderprice": "$790/mo",
+          "newerprice": "$350/mo",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/3.png",
+          "icon":"assets/img/icons/l5.png",
+          "url": "/property-details",
+          "olderprice": "$790/mo",
+          "newerprice": "$350/mo",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+           "cat":"cat1 cat2 cat3",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/3.png",
+          "icon":"assets/img/icons/l6.png",
+          "url": "/property-details",
+          "olderprice": "$790/mo",
+          "newerprice": "$350/mo",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat1 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "United Landville Apartment",
+          "image": "assets/img/feature/6.png",
+          "icon":"assets/img/icons/l5.png",
+          "url": "/property-details",
+          "olderprice": "$790/mo",
+          "newerprice": "$350/mo",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat1 cat2",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        }
+      ]
+  },
+  "announcement":{
+     "sectiontitle":"Last announcement",
+       "items":[
+        {
+          "title": "Get a link from your agent",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel eros quam. Sed sit amet dictum est, at fringilla enim Praesent. ",
+          "icon":"fa fa-user-o"
+        },
+        {
+          "title": "Get a link from your agent",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel eros quam. Sed sit amet dictum est, at fringilla enim Praesent. ",
+          "icon":"fa fa-desktop"
+        },
+        {
+          "title": "Get a link from your agent",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel eros quam. Sed sit amet dictum est, at fringilla enim Praesent. ",
+          "icon":"fa fa-home",
+          "class":"mb-0"
+        }
+      ]
+  }          
+}
